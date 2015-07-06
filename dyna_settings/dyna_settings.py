@@ -220,7 +220,6 @@ class DynaSettingsController(object):
             import os
             val = os.environ.get(setting_name)
             if val:
-                print 'Returning val: %s' % val
                 return val
 
         if not self.detected_settings:

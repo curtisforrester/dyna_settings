@@ -9,7 +9,7 @@ Tests for `dyna_settings` module. I normally use py.test.
 """
 
 import unittest
-from dyna_settings.dyna_settings import DynaSettings, _dyna_controller, register_dyna_settings, dyna_value, \
+from dyna_settings.core import DynaSettings, _dyna_controller, register_dyna_settings, dyna_value, \
     NoMatchingSettingsClass, DynaSettingsController
 
 __author__ = 'curtis'

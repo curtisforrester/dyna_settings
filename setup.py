@@ -19,12 +19,12 @@ requirements = [
 ]
 
 test_requirements = [
-    
+
 ]
 
 setup(
     name='dyna_settings',
-    version='0.1.0',
+    version='0.1.1',
     description="Dynamic project settings to automatically switch settings by environment detection.",
     long_description=readme + '\n\n' + history,
     author="Curtis Forrester",

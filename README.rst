@@ -9,7 +9,7 @@ Dyna Settings
         :target: https://pypi.python.org/pypi/dyna_settings
 
 
-Dynamic project settings enabling automatically switching settings between production and various development and testing environments.
+Dynamic project settings to automatically switch settings between production and various development and testing environments.
 
 * Free software: BSD license
 * Documentation: https://dyna_settings.readthedocs.org.
@@ -24,4 +24,3 @@ Features
 
 .. _django-environ: https://github.com/joke2k/django-environ
 .. _12-Factor: http://12factor.net/
-
